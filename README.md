@@ -1,5 +1,5 @@
 # Identity Verification Dataset
-The dataset comprises **45** people, featuring **1,215** videos and **405** audios, specifically designed for enhancing video **KYC** and digital **identity verification** processes. It is designed for **verifying customers**, preventing **fraudulent activity**, and mitigating risks associated with identity frauds and deepfakes.
+Dataset provides **1,215** videos and **405** speech clips of **45** individuals, annotated with gender, ethnicity, and multi-emotion labels. Designed for **AI avatar generation**, **identity verification**, and **computer vision** tasks, this emotional video and speech dataset supports **creating realistic avatars**, training **deep learning **models, and advancing applications in **virtual assistants**, **facial recognition**, and **digital identity**.
 
 By utilizing this dataset, researchers can develop and benchmark advanced AI models for **verifying identity** and detecting **fraud risks** through multi-modal analysis of **biometric** data from video recordings.  - **[Get the data](https://unidata.pro/datasets/speech-and-emotion-video-dataset-for-kyc-verification/?utm_source=github&utm_medium=referral&utm_campaign=kyc-verification-dataset)**
 
